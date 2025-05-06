@@ -1,5 +1,4 @@
-# Project Information: 
-## Maven Movies SQL Analysis
+# Maven Movies SQL Analysis
 
 ### Project Title:
 Unlocking Business Insights for Maven Movies – A SQL-Driven Operational Analysis
