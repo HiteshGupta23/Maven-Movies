@@ -1,6 +1,5 @@
-# Maven-Movies
-
-## Project Information: Maven Movies SQL Analysis
+# Project Information: 
+## Maven Movies SQL Analysis
 
 ### Project Title:
 Unlocking Business Insights for Maven Movies – A SQL-Driven Operational Analysis
@@ -15,15 +14,15 @@ By addressing operational challenges across multiple departments, this project d
 
 Maven Movies is under consideration for acquisition. Before proceeding, potential investors want to understand how well the company operates across key dimensions:
 
-    Are customers engaged and profitable?
+-    Are customers engaged and profitable?
 
-    How efficient and productive are the staff and stores?
+ -   How efficient and productive are the staff and stores?
 
-    What financial and security risks exist?
+  -  What financial and security risks exist?
 
-    Is the film catalog attractive and diverse enough to maintain customer interest?
+   - Is the film catalog attractive and diverse enough to maintain customer interest?
 
-    Are there any gaps in content or customer service that could affect growth?
+   - Are there any gaps in content or customer service that could affect growth?
 
 The challenge lies in retrieving and presenting this information from a complex SQL database in a way that is accurate, business-relevant, and easy to interpret.
 
