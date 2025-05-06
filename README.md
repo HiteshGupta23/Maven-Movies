@@ -27,6 +27,10 @@ Maven Movies is under consideration for acquisition. Before proceeding, potentia
 The challenge lies in retrieving and presenting this information from a complex SQL database in a way that is accurate, business-relevant, and easy to interpret.
 
 
+## ER Diagram 
+![ER Diagram](https://github.com/user-attachments/assets/8a1fa42a-d3a2-46b3-b1dd-c4d03f447394)
+
+
 ## Solution Approach
 
 A series of 16 business questions were answered using SQL, covering various themes such as:
