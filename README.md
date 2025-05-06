@@ -14,15 +14,15 @@ By addressing operational challenges across multiple departments, this project d
 
 Maven Movies is under consideration for acquisition. Before proceeding, potential investors want to understand how well the company operates across key dimensions:
 
--    Are customers engaged and profitable?
+- Are customers engaged and profitable?
 
- -   How efficient and productive are the staff and stores?
+- How efficient and productive are the staff and stores?
 
-  -  What financial and security risks exist?
+- What financial and security risks exist?
 
-   - Is the film catalog attractive and diverse enough to maintain customer interest?
+- Is the film catalog attractive and diverse enough to maintain customer interest?
 
-   - Are there any gaps in content or customer service that could affect growth?
+- Are there any gaps in content or customer service that could affect growth?
 
 The challenge lies in retrieving and presenting this information from a complex SQL database in a way that is accurate, business-relevant, and easy to interpret.
 
@@ -31,17 +31,17 @@ The challenge lies in retrieving and presenting this information from a complex 
 
 A series of 16 business questions were answered using SQL, covering various themes such as:
 
-    Store & Staff Performance: Identifying the managers, measuring staff contributions, and reviewing store operations.
+- **Store & Staff Performance:** Identifying the managers, measuring staff contributions, and reviewing store operations.
 
-    Customer Analysis: Segmenting customers based on activity and spending to find high-value individuals.
+- **Customer Analysis:** Segmenting customers based on activity and spending to find high-value individuals.
 
-    Inventory Insights: Exploring inventory distribution, film categories, and replacement cost risks.
+- **Inventory Insights:** Exploring inventory distribution, film categories, and replacement cost risks.
 
-    Financial Patterns: Evaluating payment trends and potential fraud indicators.
+- **Financial Patterns:** Evaluating payment trends and potential fraud indicators.
 
-    Compliance & Risk: Assessing stored customer data and understanding liabilities.
+- **Compliance & Risk:** Assessing stored customer data and understanding liabilities.
 
-    Content Strategy: Reviewing how well the catalog covers award-winning actors.
+- **Content Strategy:** Reviewing how well the catalog covers award-winning actors.
 
 Each question was solved through carefully constructed SQL queries, using joins, aggregates, groupings, and subqueries. Outputs were interpreted with business logic to deliver meaningful insights.
 
@@ -52,20 +52,20 @@ This project showcases how SQL-based data analysis can be used to evaluate a com
 
 The insights generated support:
 
-    Strategic planning and investment decisions
+- Strategic planning and investment decisions
 
-    Customer engagement strategies
+- Customer engagement strategies
 
-    Inventory optimization
+- Inventory optimization
 
-    Risk management (financial and compliance)
+- Risk management (financial and compliance)
 
-    Operational efficiency reviews
+- Operational efficiency reviews
 
 ## Tools & Skills Used
 
-    SQL: Joins, aggregation, grouping, CASE logic
+- **SQL:** Joins, aggregation, grouping, CASE logic
 
-    Database: MySQL
+- **Database:** MySQL
 
-    Analysis Focus: Customer profiling, financial insight, inventory breakdown, risk evaluation
+- **Analysis Focus:** Customer profiling, financial insight, inventory breakdown, risk evaluation
